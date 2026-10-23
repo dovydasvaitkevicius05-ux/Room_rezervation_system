@@ -188,17 +188,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Reservation"
+                "$ref": "#/components/schemas/UpdateReservationDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Reservation"
+                "$ref": "#/components/schemas/UpdateReservationDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Reservation"
+                "$ref": "#/components/schemas/UpdateReservationDto"
               }
             }
           }
@@ -210,6 +210,52 @@
         }
       },
       "delete": {
+        "tags": [
+          "Reservations"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Reservations/{id}/cancel": {
+      "put": {
+        "tags": [
+          "Reservations"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Reservations/{id}/endEarly": {
+      "put": {
         "tags": [
           "Reservations"
         ],
@@ -638,9 +684,6 @@
           "participantCount": {
             "type": "integer",
             "format": "int32"
-          },
-          "status": {
-            "$ref": "#/components/schemas/ReservationStatus"
           }
         },
         "additionalProperties": false
@@ -840,6 +883,36 @@
         "type": "integer",
         "format": "int32"
       },
+      "UpdateReservationDto": {
+        "type": "object",
+        "properties": {
+          "roomId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "organizerId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "plannedStart": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "plannedEnd": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "participantCount": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "UpdateRoomDto": {
         "type": "object",
         "properties": {
@@ -905,6 +978,14 @@
           },
           "surname": {
             "type": "string",
+            "nullable": true
+          },
+          "reservationIds": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "format": "int32"
+            },
             "nullable": true
           }
         },

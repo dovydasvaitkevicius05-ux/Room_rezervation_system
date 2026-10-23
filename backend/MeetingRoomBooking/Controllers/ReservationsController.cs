@@ -123,7 +123,6 @@ namespace MeetingRoomBooking.Controllers
                 PlannedStart = dto.PlannedStart,
                 PlannedEnd = dto.PlannedEnd,
                 ParticipantCount = dto.ParticipantCount,
-                Status = dto.Status
             };
             var validationResult = await ValidateReservation(reservation);
 
@@ -143,38 +142,124 @@ namespace MeetingRoomBooking.Controllers
         }
 
         /// <summary>
-        /// Update existing reservation.
+        /// Cancel existing reservation.
         /// </summary>
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateReservation(
-            int id,
-            Reservation reservation)
+        [HttpPut("{id}/cancel")]
+        public async Task<IActionResult> CancelReservation(
+            int id
+            )
         {
-            if (id != reservation.Id)
-            {
-                return BadRequest(
-                    "Route ID does not match reservation ID.");
-            }
-
-            var existingReservation =
+            var reservation =
                 await _context.Reservations.FindAsync(id);
 
-            if (existingReservation == null)
+            if (reservation == null)
             {
                 return NotFound();
             }
 
-            var validationResult =
-                await ValidateReservation(reservation);
+            if (reservation.Status != ReservationStatus.Booked)
+            {
+                return CreateError(
+                    409,
+                    "INVALID_STATUS",
+                    "Only booked reservations can be cancelled.");
+            }
+            reservation.Status = ReservationStatus.Cancelled;
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
+        /// <summary>
+        /// End existing reservation early.
+        /// </summary>
+        [HttpPut("{id}/endEarly")]
+        public async Task<IActionResult> EndReservationEarly(int id)
+        {
+            var reservation = await _context.Reservations.FindAsync(id);
+
+            if (reservation == null)
+            {
+                return NotFound();
+            }
+
+            if (reservation.Status != ReservationStatus.Booked)
+            {
+                return CreateError(
+                    409,
+                    "INVALID_STATUS",
+                    "Only booked reservations can be ended early.");
+            }
+
+            var now = DateTime.Now;
+
+            if (now < reservation.PlannedStart || now >= reservation.PlannedEnd)
+            {
+                return CreateError(
+                    400,
+                    "RESERVATION_NOT_IN_PROGRESS",
+                    "Only a reservation that is currently in progress can be ended early.");
+            }
+
+            reservation.Status = ReservationStatus.Completed;
+            reservation.PlannedEnd = now;
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+        /// <summary>
+        /// Update existing reservation.
+        /// </summary>
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateReservation(
+    int id,
+    UpdateReservationDto dto)
+        {
+            var existing = await _context.Reservations.FindAsync(id);
+
+            if (existing == null)
+            {
+                return NotFound();
+            }
+
+            if (existing.Status != ReservationStatus.Booked)
+            {
+                return CreateError(
+                    409,
+                    "INVALID_STATUS",
+                    "Only booked reservations can be updated.");
+            }
+
+            // Temporary object for validation
+            var candidate = new Reservation
+            {
+                Id = id,
+                RoomId = dto.RoomId,
+                OrganizerId = dto.OrganizerId,
+                Title = dto.Title,
+                PlannedStart = dto.PlannedStart,
+                PlannedEnd = dto.PlannedEnd,
+                ParticipantCount = dto.ParticipantCount,
+                Status = existing.Status
+            };
+
+            var validationResult = await ValidateReservation(candidate);
 
             if (validationResult != null)
             {
                 return validationResult;
             }
 
-            _context.Entry(existingReservation)
-                .CurrentValues
-                .SetValues(reservation);
+            existing.RoomId = dto.RoomId;
+            existing.OrganizerId = dto.OrganizerId;
+            existing.Title = dto.Title;
+            existing.PlannedStart = dto.PlannedStart;
+            existing.PlannedEnd = dto.PlannedEnd;
+            existing.ParticipantCount = dto.ParticipantCount;
 
             await _context.SaveChangesAsync();
 
@@ -222,7 +307,7 @@ namespace MeetingRoomBooking.Controllers
             {
                 return CreateError(
                     400,
-                    "INVALID_START_TIME",
+                    "INVALID_END_TIME",
                     "Reservation end time must be after start time.");
             }
 
@@ -299,7 +384,7 @@ namespace MeetingRoomBooking.Controllers
                 await _context.Reservations.AnyAsync(r =>
                     r.Id != reservation.Id &&
                     r.RoomId == reservation.RoomId &&
-                    r.Status != ReservationStatus.Cancelled &&
+                    r.Status == ReservationStatus.Booked &&
                     reservation.PlannedStart < r.PlannedEnd &&
                     reservation.PlannedEnd > r.PlannedStart);
 
@@ -316,7 +401,7 @@ namespace MeetingRoomBooking.Controllers
                 await _context.Reservations.AnyAsync(r =>
                     r.Id != reservation.Id &&
                     r.OrganizerId == reservation.OrganizerId &&
-                    r.Status != ReservationStatus.Cancelled &&
+                    r.Status == ReservationStatus.Booked &&
                     reservation.PlannedStart < r.PlannedEnd &&
                     reservation.PlannedEnd > r.PlannedStart);
 

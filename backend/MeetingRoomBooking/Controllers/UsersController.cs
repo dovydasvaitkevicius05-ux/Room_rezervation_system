@@ -34,7 +34,10 @@ namespace MeetingRoomBooking.Controllers
                 {
                     Id = u.Id,
                     Name = u.Name,
-                    Surname = u.Surname
+                    Surname = u.Surname,
+                    ReservationIds = u.OrganizedReservations
+                        .Select(r => r.Id)
+                        .ToList()
                 })
                 .ToListAsync();
 
@@ -53,7 +56,10 @@ namespace MeetingRoomBooking.Controllers
                 {
                     Id = u.Id,
                     Name = u.Name,
-                    Surname = u.Surname
+                    Surname = u.Surname,
+                    ReservationIds = u.OrganizedReservations
+                        .Select(r => r.Id)
+                        .ToList()
                 })
                 .FirstOrDefaultAsync();
 
