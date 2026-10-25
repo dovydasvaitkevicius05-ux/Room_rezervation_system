@@ -36,6 +36,7 @@ namespace MeetingRoomBooking.Controllers
                     Name = u.Name,
                     Surname = u.Surname,
                     ReservationIds = u.OrganizedReservations
+                        .Where(r => r.Status == ReservationStatus.Booked) 
                         .Select(r => r.Id)
                         .ToList()
                 })

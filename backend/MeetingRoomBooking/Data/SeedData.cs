@@ -168,6 +168,125 @@ namespace MeetingRoomBooking.Data
                     PlannedEnd = new DateTime(2026, 11, 11, 7, 0, 0),
                     ParticipantCount = 2,
                     Status = ReservationStatus.Booked
+                },
+                new Reservation()
+                {
+                    Id = 2,
+                    RoomId = 1,
+                    OrganizerId = 2,
+                    Title = "Sprint Review",
+                    PlannedStart = new DateTime(2026, 11, 12, 9, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 12, 11, 0, 0),
+                    ParticipantCount = 4,
+                    Status = ReservationStatus.Completed
+                },
+
+                new Reservation()
+                {
+                    Id = 3,
+                    RoomId = 2,
+                    OrganizerId = 3,
+                    Title = "Marketing Meeting",
+                    PlannedStart = new DateTime(2026, 11, 13, 8, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 13, 10, 0, 0),
+                    ParticipantCount = 8,
+                    Status = ReservationStatus.Completed
+                },
+
+                new Reservation()
+                {
+                    Id = 4,
+                    RoomId = 2,
+                    OrganizerId = 4,
+                    Title = "Budget Planning",
+                    PlannedStart = new DateTime(2026, 11, 14, 13, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 14, 15, 0, 0),
+                    ParticipantCount = 7,
+                    Status = ReservationStatus.Cancelled
+                },
+
+                new Reservation()
+                {
+                    Id = 5,
+                    RoomId = 3,
+                    OrganizerId = 5,
+                    Title = "Customer Presentation",
+                    PlannedStart = new DateTime(2026, 11, 15, 10, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 15, 12, 0, 0),
+                    ParticipantCount = 12,
+                    Status = ReservationStatus.Completed
+                },
+
+                new Reservation()
+                {
+                    Id = 6,
+                    RoomId = 4,
+                    OrganizerId = 6,
+                    Title = "Architecture Review",
+                    PlannedStart = new DateTime(2026, 11, 16, 9, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 16, 12, 0, 0),
+                    ParticipantCount = 10,
+                    Status = ReservationStatus.Booked
+                },
+
+                new Reservation()
+                {
+                    Id = 7,
+                    RoomId = 5,
+                    OrganizerId = 7,
+                    Title = "Company Training",
+                    PlannedStart = new DateTime(2026, 11, 17, 8, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 17, 16, 0, 0),
+                    ParticipantCount = 25,
+                    Status = ReservationStatus.Completed
+                },
+
+                new Reservation()
+                {
+                    Id = 8,
+                    RoomId = 5,
+                    OrganizerId = 8,
+                    Title = "Executive Meeting",
+                    PlannedStart = new DateTime(2026, 11, 18, 10, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 18, 12, 0, 0),
+                    ParticipantCount = 18,
+                    Status = ReservationStatus.Completed
+                },
+
+                new Reservation()
+                {
+                    Id = 9,
+                    RoomId = 5,
+                    OrganizerId = 9,
+                    Title = "Annual Strategy Session",
+                    PlannedStart = new DateTime(2026, 11, 19, 9, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 19, 13, 0, 0),
+                    ParticipantCount = 20,
+                    Status = ReservationStatus.Booked
+                },
+
+                new Reservation()
+                {
+                    Id = 10,
+                    RoomId = 6,
+                    OrganizerId = 10,
+                    Title = "Remote Partner Call",
+                    PlannedStart = new DateTime(2026, 11, 20, 14, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 20, 16, 0, 0),
+                    ParticipantCount = 8,
+                    Status = ReservationStatus.Completed
+                },
+
+                new Reservation()
+                {
+                    Id = 11,
+                    RoomId = 7,
+                    OrganizerId = 3,
+                    Title = "Documentation Review",
+                    PlannedStart = new DateTime(2026, 11, 21, 9, 0, 0),
+                    PlannedEnd = new DateTime(2026, 11, 21, 10, 30, 0),
+                    ParticipantCount = 5,
+                    Status = ReservationStatus.Cancelled
                 }
 
             };
