@@ -2,5 +2,12 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+	  <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+	<ItemGroup>
+		<Compile Remove="MeetingRoomBooking.Tests/**" />
+		<Content Remove="MeetingRoomBooking.Tests/**" />
+		<EmbeddedResource Remove="MeetingRoomBooking.Tests/**" />
+		<None Remove="MeetingRoomBooking.Tests/**" />
+	</ItemGroup>
 </Project>

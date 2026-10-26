@@ -8,29 +8,54 @@ import Select from "@mui/material/Select";
 import TextField from "@mui/material/TextField";
 import { EQUIPMENT_OPTIONS } from "../../constants/RoomOptions";
 
+/**
+ * Values of the room filter form fields.
+ * All values are stored as strings, as they come directly from the inputs.
+ */
 export interface RoomFilterValues {
+  // Minimum room capacity entered by the user.
   minCapacity: string;
+  // Floor number entered by the user.
   floor: string;
+  // Selected equipment option, or an empty string for any equipment.
   equipment: string;
 }
 
+/**
+ * Validation error messages for each filter field.
+ * A field has an entry only when its value is invalid.
+ */
 export type RoomFilterErrors = Partial<Record<keyof RoomFilterValues, string>>;
 
+// Define the default filter values used for the initial state and for resetting the form.
 export const EMPTY_FILTER_VALUES: RoomFilterValues = {
   minCapacity: "",
   floor: "",
   equipment: "",
 };
 
+/**
+ * Props accepted by the RoomFilters component.
+ */
 interface RoomFiltersProps {
+  // Current values of the filter fields.
   values: RoomFilterValues;
+  // Validation errors to display next to the fields.
   errors?: RoomFilterErrors;
+  // Disables all inputs and buttons, for example while data is loading.
   disabled?: boolean;
+  // Called with the updated values whenever any field changes.
   onChange: (values: RoomFilterValues) => void;
+  // Called when the user submits the form to apply the filters.
   onApply: () => void;
+  // Called when the user clears the filters.
   onReset: () => void;
 }
 
+/**
+ * Renders a form with filters for the room list: minimum capacity,
+ * floor and equipment, along with buttons to apply or clear the filters.
+ */
 export function RoomFilters({
   values,
   errors = {},
@@ -40,10 +65,12 @@ export function RoomFilters({
   onReset,
 }: RoomFiltersProps) {
   return (
+    // Render the filters as a form so they can also be applied by pressing Enter.
     <Box
       component="form"
       noValidate
       onSubmit={(event) => {
+        // Prevent the default page reload and apply the filters instead.
         event.preventDefault();
         onApply();
       }}
@@ -54,8 +81,9 @@ export function RoomFilters({
         alignItems: "flex-start",
       }}
     >
+      {/* Input for the minimum room capacity. */}
       <TextField
-        label="Minimali talpa"
+        label="Minimum Capacity"
         type="number"
         size="small"
         value={values.minCapacity}
@@ -68,8 +96,9 @@ export function RoomFilters({
         sx={{ width: 170 }}
       />
 
+      {/* Input for the floor number. */}
       <TextField
-        label="Aukštas"
+        label="Floor"
         type="number"
         size="small"
         value={values.floor}
@@ -80,18 +109,20 @@ export function RoomFilters({
         sx={{ width: 130 }}
       />
 
+      {/* Dropdown for selecting the required equipment. */}
       <FormControl
         size="small"
         sx={{ width: 240 }}
         error={Boolean(errors.equipment)}
         disabled={disabled}
       >
+        {/* Keep the label shrunk so it does not overlap the "Any" option. */}
         <InputLabel id="room-filter-equipment-label" shrink>
-          Įranga
+          Equipment
         </InputLabel>
         <Select
           labelId="room-filter-equipment-label"
-          label="Įranga"
+          label="Equipment"
           displayEmpty
           notched
           value={values.equipment}
@@ -99,22 +130,26 @@ export function RoomFilters({
             onChange({ ...values, equipment: String(event.target.value) })
           }
         >
-          <MenuItem value="">Bet kokia</MenuItem>
+          {/* Allow clearing the equipment filter. */}
+          <MenuItem value="">Any</MenuItem>
+          {/* Render one menu item for each available equipment option. */}
           {EQUIPMENT_OPTIONS.map((option) => (
             <MenuItem key={option.value} value={String(option.value)}>
               {option.label}
             </MenuItem>
           ))}
         </Select>
+        {/* Show the validation error below the dropdown, if any. */}
         {errors.equipment && <FormHelperText>{errors.equipment}</FormHelperText>}
       </FormControl>
 
+      {/* Render the buttons for applying and clearing the filters. */}
       <Box sx={{ display: "flex", gap: 1 }}>
         <Button type="submit" variant="contained" disabled={disabled}>
-          Filtruoti
+          Filter
         </Button>
         <Button type="button" onClick={onReset} disabled={disabled}>
-          Išvalyti
+          Clear
         </Button>
       </Box>
     </Box>

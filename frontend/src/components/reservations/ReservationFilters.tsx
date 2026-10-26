@@ -69,11 +69,11 @@ export function ReservationFilters({
     >
       <FormControl size="small" sx={{ width: 220 }} disabled={disabled}>
         <InputLabel id="reservation-filter-room-label" shrink>
-          Kambarys
+          Room
         </InputLabel>
         <Select
           labelId="reservation-filter-room-label"
-          label="Kambarys"
+          label="Room"
           displayEmpty
           notched
           value={values.roomId}
@@ -81,7 +81,7 @@ export function ReservationFilters({
             onChange({ ...values, roomId: String(event.target.value) })
           }
         >
-          <MenuItem value="">Visi</MenuItem>
+          <MenuItem value="">All</MenuItem>
           {rooms.map((room) => (
             <MenuItem key={room.id} value={String(room.id)}>
               {room.name}
@@ -92,11 +92,11 @@ export function ReservationFilters({
 
       <FormControl size="small" sx={{ width: 220 }} disabled={disabled}>
         <InputLabel id="reservation-filter-organizer-label" shrink>
-          Organizatorius
+          Organizer
         </InputLabel>
         <Select
           labelId="reservation-filter-organizer-label"
-          label="Organizatorius"
+          label="Organizer"
           displayEmpty
           notched
           value={values.organizerId}
@@ -104,7 +104,7 @@ export function ReservationFilters({
             onChange({ ...values, organizerId: String(event.target.value) })
           }
         >
-          <MenuItem value="">Visi</MenuItem>
+          <MenuItem value="">All</MenuItem>
           {users.map((user) => (
             <MenuItem key={user.id} value={String(user.id)}>
               {user.name} {user.surname}
@@ -115,11 +115,11 @@ export function ReservationFilters({
 
       <FormControl size="small" sx={{ width: 170 }} disabled={disabled}>
         <InputLabel id="reservation-filter-status-label" shrink>
-          Būsena
+          Status
         </InputLabel>
         <Select
           labelId="reservation-filter-status-label"
-          label="Būsena"
+          label="Status"
           displayEmpty
           notched
           value={values.status}
@@ -127,7 +127,7 @@ export function ReservationFilters({
             onChange({ ...values, status: String(event.target.value) })
           }
         >
-          <MenuItem value="">Visos</MenuItem>
+          <MenuItem value="">All</MenuItem>
           {RESERVATION_STATUS_OPTIONS.map((option) => (
             <MenuItem key={option.value} value={String(option.value)}>
               {option.label}
@@ -137,7 +137,7 @@ export function ReservationFilters({
       </FormControl>
 
       <DateField
-        label="Data nuo"
+        label="From"
         type="date"
         size="small"
         width={170}
@@ -148,7 +148,7 @@ export function ReservationFilters({
       />
 
       <DateField
-        label="Data iki"
+        label="To"
         type="date"
         size="small"
         width={170}
@@ -160,10 +160,10 @@ export function ReservationFilters({
 
       <Box sx={{ display: "flex", gap: 1 }}>
         <Button type="submit" variant="contained" disabled={disabled}>
-          Filtruoti
+          Filter
         </Button>
         <Button type="button" onClick={onReset} disabled={disabled}>
-          Išvalyti
+          Clear
         </Button>
       </Box>
     </Box>

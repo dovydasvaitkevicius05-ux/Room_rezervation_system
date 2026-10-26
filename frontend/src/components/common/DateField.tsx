@@ -13,14 +13,9 @@ interface DateFieldProps {
   disabled?: boolean;
   size?: "small" | "medium";
   fullWidth?: boolean;
-  /** Plotis pikseliais, kai fullWidth nenaudojamas */
   width?: number;
 }
 
-/**
- * Natyvus datos arba datos ir laiko laukas su MUI stiliumi.
- * Etiketė visada pakelta, kad nesidengtų su naršyklės formato užuomina.
- */
 export function DateField({
   label,
   type,

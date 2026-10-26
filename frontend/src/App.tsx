@@ -1,29 +1,28 @@
-import { Routes, Route } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
+import "react-big-calendar/lib/css/react-big-calendar.css";
+import "./App.css";
 
 import AppLayout from "./components/layout/AppLayout";
-
-import DashboardPage from "./pages/DashboardPage";
-import RoomsPage from "./pages/RoomsPage";
-import UsersPage from "./pages/UsersPage";
 import ReservationsPage from "./pages/ReservationsPage";
 import RoomUsagePage from "./pages/RoomUsagePage";
+import RoomsPage from "./pages/RoomsPage";
+import UsersPage from "./pages/UsersPage";
 
-import './App.css'
-
+/**
+ * Renders the application routes within the shared layout.
+ * Maps each URL path to its corresponding page component.
+ */
 function App() {
   return (
-    <>
-      <Routes>
-        <Route element={<AppLayout />}>
-          <Route path="/" element={<DashboardPage />} />
-          <Route path="/rooms" element={<RoomsPage />} />
-          <Route path="/users" element={<UsersPage />} />
-          <Route path="/reservations" element={<ReservationsPage />} />
-          <Route path="/room-usage" element={<RoomUsagePage />} />
-        </Route>
-      </Routes>
-    </>
-  )
+    <Routes>
+      <Route element={<AppLayout />}>
+        <Route path="/rooms" element={<RoomsPage />} />
+        <Route path="/users" element={<UsersPage />} />
+        <Route path="/reservations" element={<ReservationsPage />} />
+        <Route path="/room-usage" element={<RoomUsagePage />} />
+      </Route>
+    </Routes>
+  );
 }
 
-export default App
+export default App;

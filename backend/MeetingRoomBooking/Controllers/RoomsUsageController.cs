@@ -47,6 +47,8 @@ namespace MeetingRoomBooking.Controllers
                             r.Status == ReservationStatus.Cancelled)
                 })
                 .OrderByDescending(r => r.ReservationCount)
+                .ThenBy(r => r.CancelledReservationCount)
+
                 .ToListAsync();
 
             return rooms;
