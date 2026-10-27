@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import "react-big-calendar/lib/css/react-big-calendar.css";
 import "./App.css";
 
@@ -10,12 +10,13 @@ import UsersPage from "./pages/UsersPage";
 
 /**
  * Renders the application routes within the shared layout.
- * Maps each URL path to its corresponding page component.
+ * Redirects the root path to the rooms page.
  */
 function App() {
   return (
     <Routes>
       <Route element={<AppLayout />}>
+        <Route path="/" element={<Navigate to="/rooms" replace />} />
         <Route path="/rooms" element={<RoomsPage />} />
         <Route path="/users" element={<UsersPage />} />
         <Route path="/reservations" element={<ReservationsPage />} />
