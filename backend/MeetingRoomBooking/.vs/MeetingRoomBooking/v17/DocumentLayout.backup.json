@@ -1,138 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\",
+  "WorkspaceRootPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\docs\\business-rules.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:docs\\business-rules.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\meetingroombooking.tests\\reservationserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|solutionrelative:meetingroombooking.tests\\reservationserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\docs\\api.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:docs\\api.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\meetingroombooking.tests\\roomsusagecontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\meetingroombooking.tests\\roomsusagecontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|solutionrelative:meetingroombooking.tests\\roomsusagecontrollerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\meetingroombooking.tests\\roomserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\meetingroombooking.tests\\roomserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|solutionrelative:meetingroombooking.tests\\roomserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\services\\roomusageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:services\\roomusageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\meetingroombooking.tests\\reservationserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F62A6A-D4F3-49EE-A6F6-38C0E1E71CA9}|MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj|solutionrelative:meetingroombooking.tests\\reservationserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\configuration\\bookingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:configuration\\bookingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\roomsusagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\roomsusagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:controllers\\roomsusagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\roomusage\\roomusagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\roomusage\\roomusagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\reservationfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\reservationfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\models\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\models\\enums\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\enums\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\updateroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\updateroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\roomfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\roomfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_rezervation_system\\backend\\meetingroombooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\configuration\\bookingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:configuration\\bookingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\roomusage\\roomusagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\roomusage\\roomusagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\reservationfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\reservationfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\reservations\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\reservations\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\models\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\models\\enums\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:models\\enums\\roomequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\updateroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\updateroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\roomfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\roomfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|c:\\users\\vaido\\desktop\\projektai\\room_reservation_system\\room_reservationsystem_test\\room_rezervation_system\\backend\\meetingroombooking\\dtos\\rooms\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BCE8C6-33CD-45C6-9F22-717925FFF333}|MeetingRoomBooking.csproj|solutionrelative:dtos\\rooms\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,150 +146,222 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-28T07:08:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAiwLUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:26:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:45:36.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAiwNYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:22:26.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomsUsageController.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsUsageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsUsageController.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsUsageController.cs",
+              "RelativeToolTip": "Controllers\\RoomsUsageController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T09:08:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:24:21.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
+              "RelativeToolTip": "MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAiwNoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T20:09:38.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RoomServiceUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomServiceUnitTests.cs",
               "RelativeDocumentMoniker": "MeetingRoomBooking.Tests\\RoomServiceUnitTests.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomServiceUnitTests.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomServiceUnitTests.cs",
               "RelativeToolTip": "MeetingRoomBooking.Tests\\RoomServiceUnitTests.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T20:10:09.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationServiceUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
-              "RelativeDocumentMoniker": "MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
-              "RelativeToolTip": "MeetingRoomBooking.Tests\\ReservationServiceUnitTests.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAUwNoBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:09:38.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RoomUsageService.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\RoomUsageService.cs",
-              "RelativeDocumentMoniker": "Services\\RoomUsageService.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\RoomUsageService.cs",
-              "RelativeToolTip": "Services\\RoomUsageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RoomsUSageControllerUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
+              "RelativeDocumentMoniker": "MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
+              "RelativeToolTip": "MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:04:04.573Z"
+              "WhenOpened": "2026-10-26T20:10:38.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\RoomService.cs",
-              "RelativeToolTip": "Services\\RoomService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:04:01.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReservationService.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\ReservationService.cs",
-              "RelativeDocumentMoniker": "Services\\ReservationService.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\ReservationService.cs",
-              "RelativeToolTip": "Services\\ReservationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:03:39.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T10:01:05.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:04:07.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReservationsController.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\ReservationsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAAIkBAAAAAAAAAAAcwKABAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:26:48.348Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\SeedData.cs",
-              "RelativeToolTip": "Data\\SeedData.cs",
-              "ViewState": "AgIAAA4CAAAAAAAAAAAowDcCAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:22:02.84Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T09:02:47.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RoomsUSageControllerUnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
-              "RelativeDocumentMoniker": "MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
-              "RelativeToolTip": "MeetingRoomBooking.Tests\\RoomsUSageControllerUnitTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T20:10:38.284Z"
+              "Title": "business-rules.md",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Docs\\business-rules.md",
+              "RelativeDocumentMoniker": "Docs\\business-rules.md",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Docs\\business-rules.md",
+              "RelativeToolTip": "Docs\\business-rules.md",
+              "ViewState": "AgIAALQAAAAAAAAAAAAswNEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T09:12:17.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RoomsUsageController.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsUsageController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoomsUsageController.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsUsageController.cs",
-              "RelativeToolTip": "Controllers\\RoomsUsageController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwF0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "api.md",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Docs\\api.md",
+              "RelativeDocumentMoniker": "Docs\\api.md",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Docs\\api.md",
+              "RelativeToolTip": "Docs\\api.md",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAswNUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-27T09:13:09.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T09:08:40.607Z"
+              "WhenOpened": "2026-10-23T16:26:26.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T09:03:09.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAA4CAAAAAAAAAAAowDcCAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:22:02.84Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:26:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "RoomUsageDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\RoomUsage\\RoomUsageDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\RoomUsage\\RoomUsageDto.cs",
               "RelativeDocumentMoniker": "DTOs\\RoomUsage\\RoomUsageDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\RoomUsage\\RoomUsageDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\RoomUsage\\RoomUsageDto.cs",
               "RelativeToolTip": "DTOs\\RoomUsage\\RoomUsageDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,23 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RoomsController.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\RoomsController.cs",
-              "RelativeToolTip": "Controllers\\RoomsController.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAcwNYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:22:26.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "BookingSettings.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Configuration\\BookingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Configuration\\BookingSettings.cs",
               "RelativeDocumentMoniker": "Configuration\\BookingSettings.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Configuration\\BookingSettings.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Configuration\\BookingSettings.cs",
               "RelativeToolTip": "Configuration\\BookingSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,11 +381,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ReservationStatus.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\ReservationStatus.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\ReservationStatus.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\ReservationStatus.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\ReservationStatus.cs",
               "RelativeToolTip": "Models\\Enums\\ReservationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,23 +393,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAcwLUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:24:21.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "CreateReservationDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\CreateReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\CreateReservationDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Reservations\\CreateReservationDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\CreateReservationDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\CreateReservationDto.cs",
               "RelativeToolTip": "DTOs\\Reservations\\CreateReservationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,11 +405,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ReservationDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Reservations\\ReservationDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationDto.cs",
               "RelativeToolTip": "DTOs\\Reservations\\ReservationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "UpdateReservationDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\UpdateReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\UpdateReservationDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Reservations\\UpdateReservationDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\UpdateReservationDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\UpdateReservationDto.cs",
               "RelativeToolTip": "DTOs\\Reservations\\UpdateReservationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ReservationFilterDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationFilterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Reservations\\ReservationFilterDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationFilterDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Reservations\\ReservationFilterDto.cs",
               "RelativeToolTip": "DTOs\\Reservations\\ReservationFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,11 +441,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Users\\UserDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UserDto.cs",
               "RelativeToolTip": "DTOs\\Users\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +453,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "UpdateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Users\\UpdateUserDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\UpdateUserDto.cs",
               "RelativeToolTip": "DTOs\\Users\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +465,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "RoomDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Rooms\\RoomDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomDto.cs",
               "RelativeToolTip": "DTOs\\Rooms\\RoomDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,11 +477,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "RoomFilterDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomFilterDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Rooms\\RoomFilterDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomFilterDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\RoomFilterDto.cs",
               "RelativeToolTip": "DTOs\\Rooms\\RoomFilterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,11 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Users\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Users\\CreateUserDto.cs",
               "RelativeToolTip": "DTOs\\Users\\CreateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -449,11 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "UpdateRoomDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\UpdateRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\UpdateRoomDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Rooms\\UpdateRoomDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\UpdateRoomDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\UpdateRoomDto.cs",
               "RelativeToolTip": "DTOs\\Rooms\\UpdateRoomDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -461,11 +513,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "RoomStatus.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomStatus.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\RoomStatus.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomStatus.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomStatus.cs",
               "RelativeToolTip": "Models\\Enums\\RoomStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -473,11 +525,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "RoomEquipment.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomEquipment.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\RoomEquipment.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomEquipment.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Enums\\RoomEquipment.cs",
               "RelativeToolTip": "Models\\Enums\\RoomEquipment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -485,11 +537,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ErrorResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\ErrorResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\ErrorResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ErrorResponseDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\ErrorResponseDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\ErrorResponseDto.cs",
               "RelativeToolTip": "DTOs\\ErrorResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -497,51 +549,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CreateRoomDto.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\CreateRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\CreateRoomDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Rooms\\CreateRoomDto.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\CreateRoomDto.cs",
+              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\DTOs\\Rooms\\CreateRoomDto.cs",
               "RelativeToolTip": "DTOs\\Rooms\\CreateRoomDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T17:04:15.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:45:36.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\Reservation.cs",
-              "RelativeToolTip": "Models\\Reservation.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:26:26.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_rezervation_system\\backend\\MeetingRoomBooking\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T16:26:01.193Z"
             }
           ]
         }
