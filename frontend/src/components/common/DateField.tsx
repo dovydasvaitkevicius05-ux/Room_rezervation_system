@@ -16,6 +16,10 @@ interface DateFieldProps {
   width?: number;
 }
 
+/**
+ * A reusable date input field with an optional label, error message,
+ * and configurable width.
+ */
 export function DateField({
   label,
   type,
@@ -27,6 +31,7 @@ export function DateField({
   fullWidth = false,
   width,
 }: DateFieldProps) {
+  // Generate a unique ID to associate the input with its label.
   const id = useId();
 
   return (
@@ -37,9 +42,12 @@ export function DateField({
       fullWidth={fullWidth}
       sx={fullWidth ? undefined : { width }}
     >
+      {/* Keep the label visible for date and date-time inputs. */}
       <InputLabel htmlFor={id} shrink>
         {label}
       </InputLabel>
+
+      {/* Use a controlled input so its value is managed by the parent. */}
       <OutlinedInput
         id={id}
         type={type}
@@ -48,6 +56,8 @@ export function DateField({
         value={value}
         onChange={(event) => onChange(event.target.value)}
       />
+
+      {/* Display validation feedback only when an error is provided. */}
       {error && <FormHelperText>{error}</FormHelperText>}
     </FormControl>
   );
