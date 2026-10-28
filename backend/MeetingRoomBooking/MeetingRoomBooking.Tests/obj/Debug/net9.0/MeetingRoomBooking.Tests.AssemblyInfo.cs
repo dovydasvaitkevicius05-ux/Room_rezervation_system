@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeetingRoomBooking.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82af155e1785628118f430b70fbc65b20880f01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1894974079488538d07764bc8a50f82dc921c6f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeetingRoomBooking.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeetingRoomBooking.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

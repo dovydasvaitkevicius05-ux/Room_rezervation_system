@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj": {}
+    "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj": {
+    "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj",
+        "projectUniqueName": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj",
         "projectName": "MeetingRoomBooking",
-        "projectPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj",
+        "projectPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj",
         "packagesPath": "C:\\Users\\vaido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\obj\\",
+        "outputPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj": {
+    "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj",
         "projectName": "MeetingRoomBooking.Tests",
-        "projectPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj",
+        "projectPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\MeetingRoomBooking.Tests.csproj",
         "packagesPath": "C:\\Users\\vaido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\obj\\",
+        "outputPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj": {
-                "projectPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\Room_reservationSystem_test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj"
+              "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj": {
+                "projectPath": "C:\\Users\\vaido\\Desktop\\Projektai\\Room_reservation_system\\test\\Room_rezervation_system\\backend\\MeetingRoomBooking\\MeetingRoomBooking.csproj"
               }
             }
           }
